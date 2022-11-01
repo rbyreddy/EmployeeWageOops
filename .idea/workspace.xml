@@ -32,7 +32,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AddPartTime">
+  <component name="RunManager" selected="Application.SwitchCase">
     <configuration name="AddPartTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="employeewageoops.AddPartTime" />
       <module name="EmployeeWageOops" />
@@ -72,8 +72,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="employeewageoops.SwitchCase" />
+      <module name="EmployeeWageOops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="employeewageoops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwitchCase" />
         <item itemvalue="Application.AddPartTime" />
         <item itemvalue="Application.EmpWageComputation" />
         <item itemvalue="Application.DisplayMessage" />
