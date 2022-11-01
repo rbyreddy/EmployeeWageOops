@@ -32,7 +32,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.WagesForMonth">
+  <component name="RunManager" selected="Application.DaysReachedMonth">
     <configuration name="AddPartTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="employeewageoops.AddPartTime" />
       <module name="EmployeeWageOops" />
@@ -46,8 +46,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DisplayMessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="employeewageoops.DisplayMessage" />
+    <configuration name="DaysReachedMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="employeewageoops.DaysReachedMonth" />
       <module name="EmployeeWageOops" />
       <extension name="coverage">
         <pattern>
@@ -100,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DaysReachedMonth" />
         <item itemvalue="Application.WagesForMonth" />
         <item itemvalue="Application.SwitchCase" />
         <item itemvalue="Application.AddPartTime" />
         <item itemvalue="Application.EmpWageComputation" />
-        <item itemvalue="Application.DisplayMessage" />
       </list>
     </recent_temporary>
   </component>
